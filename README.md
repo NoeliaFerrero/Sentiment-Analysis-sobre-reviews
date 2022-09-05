@@ -12,14 +12,22 @@ Dataset
 
 Las features que contiene este dataset son las siguientes:
 				
-●  business_id: identificador del negocio al que se está realizando la review.
-●  cool: cantidad de votos por haber sido una review “cool”.
+●  business_id: identificador del negocio al que se está realizando la review
+
+●  cool: cantidad de votos por haber sido una review “cool”
+
 ●  date: fecha de realización de la revisión
-●  funny: cantidad de votos para una revisión “divertida”.
-●  review_id: identificador único de revisión (ofuscado).
-●  stars: cantidad de estrellas otorgadas por el usuario en referencia a la review.
-●  text: revisión realizada por el usuario sobre un determinado negocio.
-●  useful: cantidad de votos recibido por los usuarios a los cuales le resultó útil la revisión.
+
+●  funny: cantidad de votos para una revisión “divertida”
+
+●  review_id: identificador único de revisión (ofuscado)
+
+●  stars: cantidad de estrellas otorgadas por el usuario en referencia a la review
+
+●  text: revisión realizada por el usuario sobre un determinado negocio
+
+●  useful: cantidad de votos recibido por los usuarios a los cuales le resultó útil la revisión
+
 ● user_id: id del usuario en la plataforma (ofuscado)
  
 Consideraciones
