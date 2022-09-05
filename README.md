@@ -43,3 +43,9 @@ Evaluación
 Para la evaluación de los modelos vamos a utilizar las siguientes métricas:
  							
 ●  Precision ●  Recall ●  F1-score  ●  Análisis de AUC ROC  
+
+----
+
+## 📌 Notas 
+
+Este trabajo fué realizado por Carolina Guzman, Cecilia Manoni, Agustina Ghelfi y Noelia Ferrero, en el marco de la Diplomatura Superior en Data Science Aplicada.
