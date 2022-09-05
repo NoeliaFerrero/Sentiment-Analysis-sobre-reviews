@@ -42,7 +42,4 @@ Evaluación
  								
 Para la evaluación de los modelos vamos a utilizar las siguientes métricas:
  							
-●  Precision
-●  Recall
-	●  F1-score
-	●  Análisis de AUC ROC  (esto lo vi en una pag de kaggle -> master big data & data science UCM)
+●  Precision ●  Recall ●  F1-score  ●  Análisis de AUC ROC  
